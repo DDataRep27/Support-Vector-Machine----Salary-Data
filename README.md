@@ -1,2 +1,4 @@
 # Support-Vector-Machine----Salary-Data
-Prepare a classification model using SVM for salary dataset
+
+
+### Prepare a classification model using SVM for salary dataset
